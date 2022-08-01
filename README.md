@@ -1,2 +1,2 @@
 # event-website
-https://niksisharma.github.io/event-website/
+https://cl-nikita.github.io/HTML-CSS-JS-Assignment/
